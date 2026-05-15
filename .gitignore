@@ -1,0 +1,6 @@
+﻿# Assets
+files/assets/ad_video.mp4
+*.zip
+*.rar
+.DS_Store
+Thumbs.db
